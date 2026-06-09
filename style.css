@@ -1,0 +1,30 @@
+header {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.card {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: bisque;
+}
