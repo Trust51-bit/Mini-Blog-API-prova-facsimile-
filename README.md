@@ -55,4 +55,4 @@ mini-blog-api/
 
 ## LICENSE
 
-il progetto utilizza una licenza MIT. Per info cliccare qui: [text](https://github.com/twbs/bootstrap/blob/main/LICENSE)
+il progetto utilizza una licenza MIT. Per info cliccare qui: [LICENZA](https://github.com/twbs/bootstrap/blob/main/LICENSE)
